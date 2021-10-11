@@ -1,2 +1,2 @@
 # the-tea-cozy
-Tea Cozy project from Codecademy
+Tea Cozy project using HTML and CSS from Codecademy.
